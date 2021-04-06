@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/gradle-6.5/caches/transforms-2/files-2.1/6274b4faefc765c1e087371f43487ad9/constraintlayout-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Documents/gradle-6.5/caches/transforms-2/files-2.1/6274b4faefc765c1e087371f43487ad9/constraintlayout-2.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Documents/gradle-6.5/caches/transforms-2/files-2.1/6274b4faefc765c1e087371f43487ad9/constraintlayout-2.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
